@@ -1,0 +1,23 @@
+{
+  "name": "code-documentation-with-jsdoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gen-doc": "jsdoc -c jsdoc.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hendrixgotcodes/Code-Documentation-With-JSDoc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hendrixgotcodes/Code-Documentation-With-JSDoc/issues"
+  },
+  "homepage": "https://github.com/hendrixgotcodes/Code-Documentation-With-JSDoc#readme",
+  "devDependencies": {
+    "jsdoc": "^3.6.10"
+  }
+}
